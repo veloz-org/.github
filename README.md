@@ -1,1 +1,0 @@
-## Veloz - Your SaaS Launchpad
